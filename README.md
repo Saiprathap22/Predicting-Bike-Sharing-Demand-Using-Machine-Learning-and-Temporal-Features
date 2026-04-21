@@ -92,8 +92,8 @@ Each model is assessed using four metrics on the held-out test set:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone (https://github.com/Saiprathap22/Predicting-Bike-Sharing-Demand-Using-Machine-Learning-and-Temporal-Features/tree/main)
+cd Predicting Bike Sharing Demand Using Machine Learning and Temporal Features. 
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels pmdarima
